@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO8859-1" ?>
+<notes>
+<note>
+  <to>Tove</to>
+  <from>Jani</from>
+  <heading>Reminder</heading>
+  <body>Don't forget me this weekend!</body>
+</note>
+
+<note>
+   <to>Ronald</to>
+   <from>Dany</from>
+   <heading>Help</heading>
+   <body> Don't forget to help me move the couch this week. </body>
+</note>
+</notes>
